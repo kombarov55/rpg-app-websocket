@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>ru.novemis</groupId>
     <artifactId>rpg-app-server-websocket</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -14,9 +14,6 @@
         <version>2.1.2.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-
-    <name>spring-webflux-example</name>
-    <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -82,6 +79,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>
